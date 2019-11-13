@@ -68,7 +68,7 @@ bcat-list-lp1.cdn.nintendo.net
 app-a03.lp1.npns.srv.nintendo.net
 
 # known to block wifi access
-# ctest.cdn.nintendo.net
+ctest.cdn.nintendo.net
 
 
 # Switch
