@@ -118,5 +118,7 @@ nintendo.ch
 nintendoswitch.com
 nintendoswitch.com.cn
 nintendoswitch.cn
+# NEW added May 24 2021 from 90dns list
+nintendo.pl
 # test
 potato.nintendo.com
